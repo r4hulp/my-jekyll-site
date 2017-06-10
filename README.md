@@ -14,7 +14,7 @@ Main article at - http://www.wrapcode.com/jekyll-deploy-firebase-travis-ci/
 
 ### Development
 
-Want to contribute or improve further? Great! Shoot me a mail at rahul.patil [at] rapidcircle [dot] com
+Want to contribute or improve further? Great! Shoot me a mail at rahul.patil [at] rapidcircle [dot] com or even a simple pull request would do :+1:
 
 #### Building for source
 Build jekyll site
